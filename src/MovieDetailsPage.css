@@ -1,0 +1,50 @@
+/* Background and general styles */
+.movie-details-container {
+  background-image: url('https://www.themoviedb.org/assets/2/v4/homepage_hero_stw.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.movie-details-content {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #141414;
+  border-radius: 10px;
+  color: white;
+}
+
+/* Carousel styles */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 50px;
+  width: 50px;
+  outline: black;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.carousel-control-prev-icon {
+  background-color: transparent;
+  transform: rotate(180deg);
+}
+
+.carousel-control-next-icon {
+  background-color: transparent;
+}
+
+.carousel-indicators li {
+  background-color: white;
+}
+
+.carousel-indicators .active {
+  background-color: transparent;
+}
+
+.similar-movie-title {
+  font-size: 1rem;
+  margin-top: 5px;
+  text-align: center;
+}
