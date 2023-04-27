@@ -1,7 +1,7 @@
 MovieDB API with React
 
 *Installation*
-Cloner le projet : git clone 
+Cloner le projet : git clone https://github.com/IlyesKM9/netflix.git
 Se rendre dans le répertoire du projet
 Installer les dépendances : npm install
 
@@ -9,8 +9,6 @@ Installer les dépendances : npm install
 Exécuter le projet : npm start
 Ouvrir un navigateur web et accéder à http://localhost:3000
 
-*Contribuer*
-Les contributions sont les bienvenues ! Voici comment vous pouvez aider :
 
 *Forker le projet*
 Créer une nouvelle branche (git checkout -b feature/nom_fonctionnalité)
