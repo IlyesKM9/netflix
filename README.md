@@ -1,7 +1,7 @@
 MovieDB API with React
 
 *Installation*
-Cloner le projet : git clone https://github.com/sajirK/MovieDB-React-JS.git
+Cloner le projet : git clone 
 Se rendre dans le répertoire du projet
 Installer les dépendances : npm install
 
